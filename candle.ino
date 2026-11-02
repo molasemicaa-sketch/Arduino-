@@ -18,4 +18,5 @@ void loop() {
 
   FastLED.show();
   delay(100);
+  //controller spevifially for WS2812B LED strips
 }
